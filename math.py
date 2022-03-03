@@ -1,6 +1,6 @@
 #addition Function
 def add(a,b):
-  return a+b    #update comment for add fun remote
+  print(a+b)  #latest update on remote
   
 #subtraction Function
 def subtract(a,b):
