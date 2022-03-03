@@ -12,4 +12,5 @@ def multiply(a,b):
  
 #Division Function
 def divide(a,b)
-  print(a/b)      #latest update on remote
+  if(b==0):       #new on remote
+    return 0
