@@ -4,7 +4,7 @@ def add(a,b):
   
 #subtraction Function
 def subtract(a,b):
-  return a-b          #on bug456 local
+  print(a-b)    #latest update on remote
 
 #Multiplication Function
 def multiply(a,b):
