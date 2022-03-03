@@ -8,7 +8,7 @@ def subtract(a,b):
 
 #Multiplication Function
 def multiply(a,b):
-  return a*b      #implement on local
+  print(a*b)      #latest update on local
  
 #Division Function
 def divide(a,b)
