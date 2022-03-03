@@ -14,3 +14,5 @@ def multiply(a,b):
 def divide(a,b)
   if(b==0):       #new on remote
     return 0
+  else : pass
+
